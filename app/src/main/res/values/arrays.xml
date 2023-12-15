@@ -1,0 +1,9 @@
+<!-- res/values/arrays.xml -->
+<resources>
+    <array name="mantra_options">
+        <item>Hello</item>
+        <item>Shri Radha</item>
+        <item>Om Namah Shivay</item>
+        <item>Om Namo Narayan</item>
+    </array>
+</resources>
